@@ -2,6 +2,8 @@
 
 <h3 align=center>Cuidaidoso é a solução definitiva para encontrar o cuidador ideal para idosos.</h3>
 <br>
+<h3 align=center>Este repositório foi criado para publicar a landpage do projeto cuidaidoso</h3>
+<br>
 <div align=Left><img  src="/cuidaidososb/src/main/resources/static/img/Projeto Cuidaidoso.png" width="1000px"></div>
 
 <h2 align=left>Como rodar</h2>
